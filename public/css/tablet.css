@@ -424,7 +424,15 @@
   .content-3 .main-title {
     margin-bottom: 50px !important;
   }
+  .categories .item-cate{
+    padding: 5px 0;
+    transition-duration: 500ms;
 
+  }
+  .categories.mx-5{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
   .content-7 .title-product {
     font-size: 13px;
   }
