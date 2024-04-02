@@ -426,7 +426,7 @@
   }
   .categories .item-cate{
     padding: 5px 0;
-    transition-duration: 500ms;
+    transition-duration: 200ms;
 
   }
   .categories.mx-5{

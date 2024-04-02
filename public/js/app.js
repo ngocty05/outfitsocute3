@@ -393,7 +393,7 @@ function addProduct() {
     tempt = data.filter((value) => value.cate === "khác");
     cateSkirt.style = 'border-bottom: .8px solid #f16974;'
     product(tempt);
-    reset('cateSkirt');
+    reset('cateOther');
   });
 }
 function product(data) {
