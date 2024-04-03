@@ -63,7 +63,13 @@ function addProduct() {
       name: "Áo croptop nữ kiểu vạt nhọn bigsize sang chảnh tiểu thư",
       cate: "áo",
     },
-
+    {
+      photo:
+        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lgmilxehnx2q56",
+      link: "https://adpvn.top/d5EE",
+      name: "Chân Váy Kaki Túi Hộp Chữ A",
+      cate: "váy",
+    },
     {
       photo:
         "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lkm56s287n9sfe",
@@ -364,6 +370,97 @@ function addProduct() {
       link: "https://adpvn.top/DcU2",
       name: "Áo thun Lovito dây rút",
       cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgewki08no1697",
+      link: "https://adpvn.top/Y6iB",
+      name: "Babydoll Thêu Hoa Tay Phồng",
+      cate: "váy",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/14676bcb8740c345ee24a26e84343f41",
+      link: "https://adpvn.top/q2hD",
+      name: "Váy voan be xếp li ngang ngực",
+      cate: "váy",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/sg-11134201-7qvf2-li3xih5evi8d74",
+      link: "https://adpvn.top/EVpY",
+      name: "Váy Ngắn Ôm Hông Có Dây",
+      cate: "váy",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/fdbff6c048c4e3b256b87154e4c6f13a",
+      link: "https://adpvn.top/gxbc",
+      name: "Áo Sơ Mi Dáng Rộng Ngắn Tay",
+      cate: "áo",
+    },
+    {
+      photo:
+      "	https://down-vn.img.susercontent.com/file/sg-11134201-22100-ua02u1spp5ivfa",
+      link: "https://adpvn.top/EVpY",
+      name: "Băng Đô Tai Mèo Dễ Thương Phong Cách Lolita Nhật Bản",
+      cate: "khác",
+    },
+    {
+      photo:
+      "	https://down-vn.img.susercontent.com/file/203c542cf10f80ee927b15d25f6140e3",
+      link: "https://adpvn.top/Qh4K",
+      name: "Đôi găng tay len dài màu trơn thời trang",
+      cate: "khác",
+    },
+    {
+      photo:
+      "		https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-li1ago8d4hwe4b",
+      link: "https://adpvn.top/iYFC",
+      name: "Dép Cross dép sandal nữ",
+      cate: "khác",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/sg-11134201-7qvej-ljemtpswjutd66",
+      link: "https://adpvn.top/GFw8",
+      name: "Bộ Áo Denim Tay Dài Phối Bèo + Chân Váy Denim",
+      cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lqd4agqtucs58c",
+      link: "https://adpvn.top/a3sH",
+      name: "Áo thun ZHELIHANGFEI ngắn tay",
+      cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-locmfdv5pwvr16",
+      link: "https://adpvn.top/yYca",
+      name: "Áo thun phông logo tay nam nữ PINK",
+      cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-ls9hleocfefxc2",
+      link: "https://adpvn.top/FjkX",
+      name: "Áo sơ mi nữ áo kiểu hàn quốc",
+      cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-loq9pexcfpqjaf",
+      link: "https://adpvn.top/cW9q",
+      name: "Áo khoác da croptop basic",
+      cate: "áo",
+    },
+    {
+      photo:
+      "https://down-vn.img.susercontent.com/file/10aaf4eb8b00e97b87ef8dd7a0cdcb6c",
+      link: "https://adpvn.top/7LE4",
+      name: "Quần jeans Nữ Ống Suông Lưng",
+      cate: "quần",
     },
   ];
   var tempt;
