@@ -93,6 +93,13 @@ function addProduct() {
     },
     {
       photo:
+        "https://cf.shopee.vn/file/vn-11134207-7qukw-lhwtqoc0wr7lba",
+      link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100118771&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F33680938%2F21678399000",
+      name: "Áo Thun Form Fit Chữ B",
+      cate: "áo",
+    },
+    {
+      photo:
         "https://down-vn.img.susercontent.com/file/sg-11134201-7r9b9-llp6lckvf19ffd",
       link: "https://adpvn.top/WUxu",
       name: "Set áo LEN GIẤY trễ vai ôm body mix chân váy ngắn voan 3 tầng",
