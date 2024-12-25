@@ -710,6 +710,22 @@ function addProduct() {
       cate: "khác",
       id: "MSC083",
     },
+    {
+      photo:
+        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7smjn9uss7fe.webp",
+      link: "https://adpvn.top/8g95",
+      name: "Chân váy dạ ngắn kẻ sọc",
+      cate: "váy",
+      id: "MSC084",
+    },
+    {
+      photo:
+        "	https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m3nekxr27mi024.webp",
+      link: "https://adpvn.top/E1pY",
+      name: "Áo Croptop Nữ BABY",
+      cate: "áo",
+      id: "MSC085",
+    },
   ];
   var tempt;
   product(data);
